@@ -1,0 +1,15 @@
+{
+  "files": [
+    "src/scripts/main.ts",
+    "src/scripts/greet.ts"
+  ],
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "sourceMap": true,
+    "noImplicitAny": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

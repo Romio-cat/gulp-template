@@ -1,0 +1,22 @@
+@import "header";
+
+body {
+  display: inline;
+  font-family: sans-serif;
+  font-size: 10px;
+  color: #002834;
+  padding: 0;
+  margin: 0;
+  background-color: #aaaaaa;
+
+}
+
+.asd {
+  border-radius: 25%;
+  //filter: blur(5px);
+  width: 100px;
+  height: 50px;
+  border: 1px solid red;
+}
+
+
